@@ -7,7 +7,7 @@ int main()
 	n1=a-b;
 	if (n1<c)
 	{
-		n2=c-n1;
+		n2=c-n1
 	}
 	else
 	{
